@@ -15,7 +15,7 @@ You should have received an email invitation to join the ScoutMap Dropbox Folder
 
 4. You should see the TMRScouts Folder contents at this point and, if so, you have successfully set up your Dropbox account.
 
-**NOTE that it is not necessary for you to download the Dropbox Desktop application offered to you on the Welcome Screen, mentioned above. Instead, you will need the Mobile App for your device.**
+**NOTE** ***that it is not necessary for you to download the Dropbox Desktop application offered to you on the Welcome Screen, mentioned above. Instead, you will need the Mobile App for your device.***
 
 ###Install the DropBox App on Your Phone
 
