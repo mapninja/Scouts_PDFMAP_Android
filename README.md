@@ -1,11 +1,21 @@
 # Avenza PDF-Maps app for Android
-## Use Guide for Great Mountain Forest 2014
+## Use Guide for Ten Mile River Scout Camp Workshop
 
 This guide is intended to get you up and running using Avenza's PDF-Maps for Android. For more detailed information about setup and use, please see the Avenza Webpage for the app at http://www.pdf-maps.com/
 
-###Install the App
+###Install the Avenza PDF-Maps App
 
 1. First, go to Google Play or the App Store, depending upon your device, and download the free app, PDF Maps by Avenza.
+
+###Install DropBox and connect to the Shared Folder
+
+You should have received an email invitation to join the ScoutMap Dropbox Folder from Sid Miller of Stace Maples. 
+
+1. Simply click on the "View Folder" link in the email and you will be presented with the DropBox Signup page (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section.
+
+2. Fill in your information and click on the "Create Account" Button.
+
+2.  This folder will be the location from which you obtain basemaps and to which you export your collected data. Once you sign up for Dropbox you should be able to accept the invite to the shared folder.
 
 ###Download the Map
 
