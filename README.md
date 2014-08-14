@@ -9,9 +9,13 @@ You should have received an email invitation to join the ScoutMap Dropbox Folder
 
 1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section).
 
-2. Fill in your information and click on the "Create Account" Button.
+2. Fill in your information and click on the "__Create Account__" Button.
 
-2.  This folder will be the location from which you obtain basemaps and to which you export your collected data. Once you sign up for Dropbox you should be able to accept the invite to the shared folder.
+3. If you created your account successfully, you should see a __Welcome Page__". Find the "__Dropbox Website__" link and click on it to access the shared folder.
+
+4. You should see the TMRScouts Folder contents at this point and, if so, you have successfully set up your Dropbox account.
+
+**NOTE that it is not necessary for you to download the Dropbox Desktop application offered to you on the Welcome Screen, mentioned above. Instead, you will need the Mobile App for your device.**
 
 ###Install the DropBox App on Your Phone
 
