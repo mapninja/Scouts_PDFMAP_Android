@@ -3,11 +3,7 @@
 
 This guide is intended to get you up and running using Avenza's PDF-Maps for Android. For more detailed information about setup and use, please see the Avenza Webpage for the app at http://www.pdf-maps.com/
 
-###Install the Avenza PDF-Maps App
-
-1. First, go to Google Play or the App Store, depending upon your device, and download the free app, PDF Maps by Avenza.
-
-###Install DropBox and connect to the Shared Folder
+###Sign up for DropBox and connect to the Shared Folder
 
 You should have received an email invitation to join the ScoutMap Dropbox Folder from Sid Miller of Stace Maples. 
 
@@ -16,6 +12,19 @@ You should have received an email invitation to join the ScoutMap Dropbox Folder
 2. Fill in your information and click on the "Create Account" Button.
 
 2.  This folder will be the location from which you obtain basemaps and to which you export your collected data. Once you sign up for Dropbox you should be able to accept the invite to the shared folder.
+
+###Install the DropBox App on Your Phone
+
+PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto your phone and also allows you to export your collected map data directly to DropBox. For this integration to work properly, however, you need to have the DropBox App installed on your phone.
+
+1. For Android, Search the Google Play Store for Dropbox and install the app, or go to [This Link](http://play.google.com/store/apps/details?id=com.dropbox.android&hl=en)
+
+
+###Install the Avenza PDF-Maps App
+
+1. First, go to Google Play or the App Store, depending upon your device, and download the free app, PDF Maps by Avenza.
+
+
 
 ###Download the Map
 
