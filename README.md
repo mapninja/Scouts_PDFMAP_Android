@@ -1,95 +1,109 @@
-# Collector for ArcGIS app for Android
-## Use Guide for Urban MODS 2014
+# Avenza PDF-Maps app for Android
+## Use Guide for Great Mountain Forest 2014
 
-This guide is intended to get you up and running using the Collector for ARcGIS application for editing the URI Street Trees database. For more detailed information about the Collector for ArcGIS application, see the Esri Help Guide at http://doc.arcgis.com/en/collector/
+This guide is intended to get you up and running using Avenza's PDF-Maps for Android. For more detailed information about setup and use, please see the Avenza Webpage for the app at http://www.pdf-maps.com/
 
 ###Install the App
 
-1. First, install Collector for ArcGIS application from the Google Play App Store.
+1. First, go to Google Play or the App Store, depending upon your device, and download the free app, PDF Maps by Avenza.
 
-###Log into the Yale ArcGIS Online Account
+###Download the Map
 
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-47-05.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-48-03.png "Android Screenshot")
+2. Once you have installed PDF Maps on your device, use your device browser to go to http://bit.ly/GMFPDF
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-17-01.png "Android Screenshot")
+
+3. Download the map you need, as well as the overview map which has all seven routes on it.
+
+###Open the Map in PDF Maps
+
+4. (Android) Once the map is downloaded, browse and open it and select PDF Maps when prompted for the application you want to use it in.  
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-11_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-26_resize.png "Android Screenshot")
+
+5. This should launch PDF Maps and begin the import process
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-33_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-47_resize.png "Android Screenshot")
+
+6. Once the import process has completed, tap on the map to open it.
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-41-54_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-42-32_resize.png "Android Screenshot")
   
-1. Leave the Sign In URL as the default (http://www.arcgis.com) and Click Continue.
-2. Use **Username:** MODS **Password:** m0dsm0ds *(That's a zero)* to log into the ArcGIS Online account.
+Navigation in the application works as you would expect, with double-taps, pinch-in and out, etc... Once you've got your map open, you will see a toolbar the top with 5 items...
 
-###Download the Data for the Area You Will Be Working In.
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-48-35.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-48-55.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-49-19.png "Android Screenshot")
-
-3. Click on the Download Link.
-4. It is suggested that you download the Map Data using WiFi (for speed, and so as to not incur charges). If you see a warning about Cellular Downloads, you should enable your WiFi connection a return to the download screen.
-5. If you are prompted to Choose a Basemap (this will happen if the unit you are using has other downloaded maps on it) choose the "Download a new basemap."
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-49-42.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-50-40.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-50-55.png "Android Screenshot")
-    ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-51-11.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-53-03.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-53-20.png "Android Screenshot")
-
-6. You will be prompted to Login again, however you _**WILL NOT** use the same credentials used in the first login_. Instead, in this case, **you should use your Yale University NETID and Password**. If you are unable to log into the data service, you will need to return to the previous screen and reopen the map to try again. If your NETID and Password do not seem to be working, try entering your **NETID** as **"YALE\NETID"** so that the App recognises that you are trying to log into the Yale domain.
-7. Once you see the Tree Data Points appear in the **Work Area screen**, you should Pan & Zoom (this works as you would expect on a touch screen, with pinching, etc...) to the area you will be working in and click on the **CHOOSE MAP DETAIL** link.
-8. In the **Map Detail screen**, Zoom to the highest level of detail possible (or necessary) and click on the **DOWNLOAD** link to begin the download.
-9. To open the Street Tree Editor, click on the Thumbnail for the Map in the **All Maps** screen.
-10. The Street Tree Editor will open and the GPS will immediately be used (click yes if you are prompted to turn on the GPS) to center the map on your current location.
-
-###Editing an Existing Tree Record
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-12-42.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-12-50.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-09-02.png "Android Screenshot")
-
-1. To edit an existing tree feature, click on the feature to select it, then click on the small info pop-up to open the full record.
-2. Click on the Edit Tool  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/EditTool.png "Android Screenshot") to make the record editable.
-  * Please be certain that you update **ALL RELEVANT FIELDS INCLUDING THE DATE.**  
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/PDFMapTOobar.png "Android Screenshot")
   
- ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-09-13.png "Android Screenshot") 
- 
-3. **Add at least one Photo Attachment to the record** (more if hazards, or defects in the tree warrant, or if you are unable to identify the tree in the field) by clicking on the Attachment button  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/AttachButton.png "Android Screenshot")  and taking a photo with the camera. 
-4. If you do not need to move the point, click on the check mark to commit the edits.
+##Individual Map Toolbar Functions:
+###GPS Tool
 
-###Moving a Point After Editing Attributes
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/GPSTool.png "Android Screenshot")
 
-**If a point is obviously misplaced in the database, please use the following method to update the location.**
+1. The GPS Tool enables the GPS on your device and centers the map on your location.
+###Placemark Tool  
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/PlacemarkTool.png "Android Screenshot")
 
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-11-32.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-11-44.png "Android Screenshot")
-
-1. Zoom to a level that is comfortable for you to use and provides enough detail for you to place a point with accuracy, in case your GPS Accuracy is not great.  
-1. Click on the Map Icon ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/MapButton.png "Android Screenshot") at the top of the Editing Panel.
-2. Touch and hold the point until you see the Magnifying Glass (which shows what is **UNDER** your fingertip) and slide the point to it's correct location.
-
-###Adding a New Tree
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-53-40.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-12-53-20.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-07-07.png "Android Screenshot")
-
-1. Zoom to a level that is comfortable for you to use and provides enough detail for you to place a point with accuracy, in case your GPS Accuracy is not great.
-2. To add a new point to the map, click on the Add Point tools ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/AddPoint.png "Android Screenshot") and begin editing the attribute fields as with editing an existing record.
-3. Once you have edited the attributes of the feature, Click on the Map Tool ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/MapButton.png "Android Screenshot") to position the point, as described above.
-
-###Deleting a Tree
-
-In some cases, there will simply be no tree, even though there is a record for one. in these cases, use the following method to delete the existing point. **DO NOT, HOWEVER, DELETE A POINT IN ORDER TO ADD A NEW ONE. MOVE THE POINT OR EDIT THE EXISTING POINT INSTEAD.**
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-12-42.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-12-50.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-14-08.png "Android Screenshot")
+2. The Placemark Tool places a new Placemark into the map at the center of the map (marked by crosshairs). If you want the point placed at the GPS location you are at, you should click on the GPS Tool, first. Once a Placemark is placed, you can changed it's position on the map by long-pressing the placemark and dragging it around.
   
-1. Touch the feature to select it.
-2. Open the Attribute Record from the pop-up.
-3. Click on the Delete Button ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DeleteButton.png "Android Screenshot") and confirm.
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-09-36-06_resize.png "Android Screenshot")
 
-###Syncing the Edits You Have Made
+###Coordinates Tool 
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/CoordinateTOol.png "Android Screenshot")
 
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-15-43-31.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-13-14-51.png "Android Screenshot")
+3. The Coordinate Tool allows you to see the coordinates in the app using one of several different Datum/Projections, including UTM, NAD83 and WGS84
+###Placemark Collections Tool
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/PlacemarkCollectionsTool.png "Android Screenshot")
+
+4. The Placemark Collections Tool takes you to the Placemark Collections Explorer, which allows you to organize your Placemark into folders for exporting and management.
+
+###Map Tools Button
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/MapTools.png "Android Screenshot")
+
+5. The Map Tools button provides access to a number of other tools for managing your PDF Maps Application.
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-15-28-17_resize.png "Android Screenshot")
+
+##Editing Placemark Attributes/Adding Photos
+
+Once you have added a placemark, using the method described above, you can click on the Pop-Up to bring the Placemark Editor forward.
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-15-57-48_resize.png "Android Screenshot")
+
+Clicking on any of the items in the Placemark Editor Screen will provide you with the ability to edit those fields. By Default, placemarks have Name, Description Photo and Location fields you can populate with the values you need. If you find that you would like to add more fields, you can create a custom schema using the tools at the bottom of the Placemark Editor Screen. For this exercise, it will not be necessary to do so, but you are free to experiment.
+
+###Adding Photos to a Placemark
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-15-58-43_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-15-59-08_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-15-59-26_resize.png "Android Screenshot")
   
-1. Establish a stable WiFi connection.
-2. Exit the Street Tree Editing map by clicking on the Exit Map Button ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Return.png "Android Screenshot").
-3. Note that the Sync Link indicates in parentheses the number of edits you have ready to sync.
-3. Touch the Sync Link to begin the Sync Process. 
-
-###To Delete a Downloaded Map and Start Again
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-15-49-54.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-15-48-20.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-15-48-25.png "Android Screenshot")
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-09-36-18_resize.png "Android Screenshot")
   
-1. Return to the All Maps screen.
-2. Touch the Settings Icon (Three dots at the bottom right) and select Manage.
-3. Click on the Remove Link and Confirm.
-4. Note that you may see prompts warning about data loss if you have unsynced edits.
+Clicking on the Photos Item in the Placemark Editor will bring a screen that allows you to select an existing photo, or use the device camera to take a new one. Note that you are able to attach multiple photos to each Placemark. As a best practice, it is a good idea to go into the camera settings on your device to set the photos to a low or medium resolution (whichever is sufficient for your purpose), in order to economize on the size of your Placemark Collections.
+
+### Exporting a Collection of Placemarks
+
+There are a great number of options for exporting your placemarks, in terms of format, method, etc... Here, you are provide with the most expedient method, that preserves the photos embedded in your placemark collection.
+
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/PlacemarkCollectionsTool.png "Android Screenshot")
+
+
+1. To Export Placemarks, click on the Placemark Collection Tool.
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-09-22_resize.png "Android Screenshot")
+
+2. Click on the Export Button
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-10-03_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-10-07_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-10-13_resize.png "Android Screenshot")
+  
+3. Change the FILE NAME, if desired.
+4. Change the EXPORT FORMAT to KML, if it is not, already (CSV and GPX are perfectly reasonable formats, but do not bring the photos with them, in the export).
+
+  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-10-44_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-11-25_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-25-11-11-31_resize.png "Android Screenshot")
+
+5. Change the SEND TO Option to the one most convenient for you (Email, SD Card and Dropbox are options). Note that the Dropbox option will require that you have Dropbox App installed on your device. If you are working remotely, and network connectivity is an issue, you may find that using the SD card option, and then sending the resulting file through Bluetooth connection or using a USB cable is the best option.
+6. Click on the Export Item to begin the export for the method you have chosen. Dropbox is described/shown, here.
+7. Authorize PDF Maps to access Dropbox on your device.
+8. Browse to the folder you want to save the KML file to.
+9. Click on the Check Mark to Export the Placemark Collection to DropBox.
+
 
 
 
