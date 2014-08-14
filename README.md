@@ -1,13 +1,13 @@
 # Avenza PDF-Maps app for Android
 ## Use Guide for Ten Mile River Scout Camp Workshop
 
-This guide is intended to get you up and running using Avenza's PDF-Maps for Android. For more detailed information about setup and use, please see the Avenza Webpage for the app at http://www.pdf-maps.com/
+This guide is intended to get you up and running using Avenza's PDF-Maps for Android. 
 
 ###Sign up for DropBox and connect to the Shared Folder
 
 You should have received an email invitation to join the ScoutMap Dropbox Folder from Sid Miller of Stace Maples. 
 
-1. Simply click on the "View Folder" link in the email and you will be presented with the DropBox Signup page (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section.
+1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section).
 
 2. Fill in your information and click on the "Create Account" Button.
 
@@ -123,7 +123,7 @@ There are a great number of options for exporting your placemarks, in terms of f
 8. Browse to the folder you want to save the KML file to.
 9. Click on the Check Mark to Export the Placemark Collection to DropBox.
 
-
+For more detailed information about setup and use, please see the Avenza Webpage for the app at http://www.pdf-maps.com/
 
 
 
