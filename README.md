@@ -13,15 +13,21 @@ You should have received an email invitation to join the ScoutMap Dropbox Folder
 
 3. If you created your account successfully, you should see a __Welcome Page__". Find the "__Dropbox Website__" link and click on it to access the shared folder.
 
-4. You should see the TMRScouts Folder contents at this point and, if so, you have successfully set up your Dropbox account.
+4. You should see the **TMRScouts Folder** contents at this point and, if so, you have successfully set up your Dropbox account.
 
 **NOTE** ***that it is not necessary for you to download the Dropbox Desktop application offered to you on the Welcome Screen, mentioned above. Instead, you will need the Mobile App for your device.***
 
 ###Install the DropBox App on Your Phone
 
-PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto your phone and also allows you to export your collected map data directly to DropBox. For this integration to work properly, however, you need to have the DropBox App installed on your phone.
+PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto your phone and also allows you to export your collected map data directly to DropBox. For this integration to work properly, however, you need to have the DropBox App installed on your phone. Once you have created a Dropbox account as described above, do the following:
 
-1. For Android, Search the Google Play Store for Dropbox and install the app, or go to [This Link](http://play.google.com/store/apps/details?id=com.dropbox.android&hl=en)
+1. For Android, Search the Google Play Store for Dropbox and install the app, or go to [This Link](http://play.google.com/store/apps/details?id=com.dropbox.android&hl=en) from your phone.
+
+2. Touch the Install Button to install the application on your phone
+
+3. Once installed, Open Dropbox on your Phone and **sign in** using the credentials you used to create your account, above. 
+
+4. Once signed in, you will be prompted to set some options (Photo Backup, etc...). These are totally up to you, and not necessary for the workshop.
 
 
 ###Install the Avenza PDF-Maps App
