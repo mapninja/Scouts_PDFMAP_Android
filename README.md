@@ -58,18 +58,10 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 6. Select a map and PDF Maps will import the PDF and process it for use in PDF Maps. Once processed, the map will be available in PDF Maps for use in the field.
 
-7. Please DOwnload all maps in the **TMRScout** folder. We have provided several different basemaps for each location of interest.
+7. Please Download all maps in the **TMRScout** folder. We have provided several different basemaps for each location of interest.
 
 
-###Open the Map in PDF Maps
-
-4. (Android) Once the map is downloaded, browse and open it and select PDF Maps when prompted for the application you want to use it in.  
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-11_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-26_resize.png "Android Screenshot")
-
-5. This should launch PDF Maps and begin the import process
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-33_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-26-47_resize.png "Android Screenshot")
+###Opening a Map in PDF Maps
 
 6. Once the import process has completed, tap on the map to open it.
 
