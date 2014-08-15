@@ -48,7 +48,15 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 3. Select the option to Import Maps from Dropbox. 
 
-4. GO through the dialog to allow PDF Maps to use 
+4. Go through the dialog to allow PDF Maps to access your Dropbox account.
+
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-40-04.png "Android Screenshot") 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-40-13.png "Android Screenshot") 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-40-23.png "Android Screenshot") 
+
+5. Once you have approved PDF Maps' access to your Dropbox account, you should be presented with a view of your Dropbox folders. Browse into the TMRScout Folder.
+
+6. 
 
 
 
