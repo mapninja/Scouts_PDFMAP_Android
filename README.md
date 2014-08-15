@@ -7,8 +7,6 @@ This guide is intended to get you up and running using Avenza's PDF-Maps for And
 
 You should have received an email invitation to join the ScoutMap Dropbox Folder from Sid Miller of Stace Maples. 
 
-![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_Invite_Dialog.png "Android Screenshot") 
-
 1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section).
 
 ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_Invite_Signup_Page.png "Android Screenshot") 
