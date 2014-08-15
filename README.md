@@ -40,7 +40,17 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 1. First, go to Google Play or follow [This Link](https://play.google.com/store/apps/details?id=com.Avenza&hl=en), to install PDF Maps by Avenza.
 
-2. Once installed, open the PDF Maps Application and press the 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-36-40.png "Android Screenshot") 
+https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-36-46.png "Android Screenshot") 
+https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-39-48.png "Android Screenshot") 
+
+2. Once installed, open the PDF Maps Application and press the Add Maps button at the top of the application
+
+3. Select the option to Import Maps from Dropbox. 
+
+4. GO through the dialog to allow PDF Maps to use 
+
+
 
 
 ###Download the Map
