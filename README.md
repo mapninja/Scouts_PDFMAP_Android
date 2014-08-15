@@ -29,10 +29,12 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 4. Once signed in, you will be prompted to set some options (Photo Backup, etc...). These are totally up to you, and not necessary for the workshop.
 
+5. Finally, you should see the TMRScouts folder displayed in your list of Dropbox Folders.
+
 
 ###Install the Avenza PDF-Maps App
 
-1. First, go to Google Play or the App Store, depending upon your device, and download the free app, PDF Maps by Avenza.
+1. First, go to Google Play or follow [This Link](https://play.google.com/store/apps/details?id=com.Avenza&hl=en), PDF Maps by Avenza.
 
 
 
