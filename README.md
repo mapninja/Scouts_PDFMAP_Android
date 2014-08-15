@@ -63,6 +63,8 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 ###Opening a Map in PDF Maps
 
+Note that the tutorial images in the following section use maps for the location I am in 
+
 6. Once the import process has completed, tap on the map to open it.
 
   ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-41-54_resize.png "Android Screenshot")  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-42-32_resize.png "Android Screenshot")
