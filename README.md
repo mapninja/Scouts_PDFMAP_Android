@@ -60,7 +60,7 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 7. Please Download all maps in the **TMRScout** folder. We have provided several different basemaps for each location of interest.
 
-####Note that the tutorial on **using** PDF Maps that follow were written for the Yale School of Forestry's Field Exercises at Great Mountain Forest, but should be useful in learning the basics of PDF Maps for your personal use, as well.
+####Note that the tutorials on **using** the basic features in PDF Maps that follow were written for the Yale School of Forestry's Field Exercises at Great Mountain Forest, but should be useful in learning the basics of PDF Maps for your personal use, as well.
 
 ###Opening a Map in PDF Maps
 
@@ -98,6 +98,14 @@ Navigation in the application works as you would expect, with double-taps, pinch
   ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/MapTools.png "Android Screenshot")
 
 5. The Map Tools button provides access to a number of other tools for managing your PDF Maps Application.
+
+###Starting a Track Log recording
+
+1. Touch the Map Tools button and select "**Record GPS Tracks**"
+
+2. Touch the "**Play**" Button that appears at the bottom of the screen to begin recording your track.
+
+3. Use the Pause button to pause Tracklogging temporarily, and the "Done" link to stop recording the Track, altogether, and save it to the device.
 
   ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-15-28-17_resize.png "Android Screenshot")
 
