@@ -25,6 +25,8 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 2. Touch the Install Button to install the application on your phone
 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-15-41.png "Android Screenshot")
+
 3. Once installed, Open Dropbox on your Phone and **sign in** using the credentials you used to create your account, above. 
 
 4. Once signed in, you will be prompted to set some options (Photo Backup, etc...). These are totally up to you, and not necessary for the workshop.
@@ -34,8 +36,9 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 ###Install the Avenza PDF-Maps App
 
-1. First, go to Google Play or follow [This Link](https://play.google.com/store/apps/details?id=com.Avenza&hl=en), PDF Maps by Avenza.
+1. First, go to Google Play or follow [This Link](https://play.google.com/store/apps/details?id=com.Avenza&hl=en), to install PDF Maps by Avenza.
 
+2. Once installed, open the PDF Maps Application and press the 
 
 
 ###Download the Map
