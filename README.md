@@ -25,9 +25,9 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 2. Touch the Install Button to install the application on your phone
 
-![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-16-48.png "Android Screenshot")  
-![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-17-33.png "Android Screenshot")  
-![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-18-08.png "Android Screenshot")  
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-16-48.png "Android Screenshot") 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-17-33.png "Android Screenshot") 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-14-15-18-08.png "Android Screenshot") 
 
 3. Once installed, Open Dropbox on your Phone and **sign in** using the credentials you used to create your account, above. 
 
