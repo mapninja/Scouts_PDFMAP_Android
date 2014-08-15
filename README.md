@@ -54,20 +54,12 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-40-13.png "Android Screenshot") 
 ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-08-15-09-40-23.png "Android Screenshot") 
 
-5. Once you have approved PDF Maps' access to your Dropbox account, you should be presented with a view of your Dropbox folders. Browse into the TMRScout Folder.
+5. Once you have approved PDF Maps' access to your Dropbox account, you should be presented with a view of your Dropbox folders. Browse into the **TMRScout** Folder.
 
-6. 
+6. Select a map and PDF Maps will import the PDF and process it for use in PDF Maps. Once processed, the map will be available in PDF Maps for use in the field.
 
+7. Please DOwnload all maps in the **TMRScout** folder. We have provided several different basemaps for each location of interest.
 
-
-
-###Download the Map
-
-2. Once you have installed PDF Maps on your device, use your device browser to go to http://bit.ly/GMFPDF
-
-  ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/Screenshot_2014-07-24-14-17-01.png "Android Screenshot")
-
-3. Download the map you need, as well as the overview map which has all seven routes on it.
 
 ###Open the Map in PDF Maps
 
