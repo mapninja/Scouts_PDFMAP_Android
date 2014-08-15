@@ -7,11 +7,19 @@ This guide is intended to get you up and running using Avenza's PDF-Maps for And
 
 You should have received an email invitation to join the ScoutMap Dropbox Folder from Sid Miller of Stace Maples. 
 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_Invite_Dialog.png "Android Screenshot") 
+
 1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section).
+
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_Invite_Signup_Page.png "Android Screenshot") 
 
 2. Fill in your information and click on the "__Create Account__" Button.
 
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_Invite_Success_Page.png "Android Screenshot") 
+
 3. If you created your account successfully, you should see a __Welcome Page__". Find the "__Dropbox Website__" link and click on it to access the shared folder.
+
+![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_TMRScouts_Page.png "Android Screenshot") 
 
 4. You should see the **TMRScouts Folder** contents at this point and, if so, you have successfully set up your Dropbox account.
 
