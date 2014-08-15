@@ -60,10 +60,9 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 7. Please Download all maps in the **TMRScout** folder. We have provided several different basemaps for each location of interest.
 
+####Note that the tutorial on **using** PDF Maps that follow were written for the Yale School of Forestry's Field Exercises at Great Mountain Forest, but should be useful in learning the basics of PDF Maps for your personal use, as well.
 
 ###Opening a Map in PDF Maps
-
-Note that the tutorial images in the following section use maps for the location I am in 
 
 6. Once the import process has completed, tap on the map to open it.
 
