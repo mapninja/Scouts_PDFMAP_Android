@@ -7,7 +7,7 @@ This guide is intended to get you up and running using Avenza's PDF-Maps for And
 
 You will soon an email invitation to join the TMRScout Dropbox Folder from Sid Miller. Please follow the directions below (with screenshots that demonstrate the general process you will follow) to gain access to the folder. This folder will be used for the distribution of basemap files to be used in the PDF Maps app, as well as aggregating the results of mapping by participants.
 
-1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMPScouts Folder and can ignore the remainder of this section).
+1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMRScout Folder and can ignore the remainder of this section).
 
 ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_Invite_Signup_Page.png "Android Screenshot") 
 
@@ -19,7 +19,7 @@ You will soon an email invitation to join the TMRScout Dropbox Folder from Sid M
 
 ![Android Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/DropBox_TMRScouts_Page.png "Android Screenshot") 
 
-4. You should see the **TMRScouts Folder** contents at this point and, if so, you have successfully set up your Dropbox account.
+4. You should see the **TMRScout Folder** contents at this point and, if so, you have successfully set up your Dropbox account.
 
 **NOTE** ***that it is not necessary for you to download the Dropbox Desktop application offered to you on the Welcome Screen, mentioned above. Instead, you will need the Mobile App for your device.***
 
@@ -39,7 +39,7 @@ PDFMaps integrates well with DropBox and makes it easy to move PDF Basemaps onto
 
 4. Once signed in, you will be prompted to set some options (Photo Backup, etc...). These are totally up to you, and not necessary for the workshop.
 
-5. Finally, you should see the TMRScouts folder displayed in your list of Dropbox Folders.
+5. Finally, you should see the TMRScout folder displayed in your list of Dropbox Folders.
 
 
 ###Install the Avenza PDF-Maps App
