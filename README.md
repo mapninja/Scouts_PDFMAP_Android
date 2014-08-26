@@ -7,7 +7,7 @@ This guide is intended to get you up and running using Avenza's PDF-Maps for And
 
 You will soon receive an email invitation to join the TMRScout Dropbox Folder from Sid Miller. Please follow the directions below (with screenshots that demonstrate the general process you will follow) to gain access to the folder. This folder will be used for the distribution of basemap files to be used in the PDF Maps app, as well as aggregating the results of mapping by participants.
 
-**PLEASE NOTE THAT THE SCREENSHOTS SHOWN BELOW WERE TAKEN BEFORE THE TMRSCOUT FOLDER WE WILL BE USING FOR THE WORKSHOP WAS CREATED AND THEY THEREFORE DO NOT PERFECTLY REFLECT THE EXACT CONTENTS YOU WILL SEE WHEN JOINING THE TMRSCOUT FOLDER WE WILL BE USING IN THE WORKSHOP, HOWEVER, THEY ARE A GOOD REFERENCE FOR THE TYPE OF SCREENS YOU SHOULD EXPECT TO SEE IN YOUR LOGGING IN**
+**PLEASE NOTE THAT THE SCREENSHOTS SHOWN BELOW WERE TAKEN BEFORE THE TMRSCOUT FOLDER WE WILL BE USING FOR THE WORKSHOP WAS CREATED AND THEY THEREFORE DO NOT PERFECTLY REFLECT THE EXACT CONTENTS YOU WILL SEE WHEN JOINING THE TMRSCOUT FOLDER WE WILL BE USING IN THE WORKSHOP, HOWEVER, THEY ARE A GOOD REFERENCE FOR THE TYPE OF SCREENS YOU SHOULD EXPECT TO SEE IN YOUR LOGGING IN PROCEDURE**
 
 1. Simply click on the "View Folder" link in the email and you will be presented with the __DropBox Signup page__ (Unless you already HAVE a DropBox account and are signed in, in which case you will be taken to the TMRScout Folder and can ignore the remainder of this section).
 
